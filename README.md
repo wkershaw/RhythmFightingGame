@@ -8,4 +8,4 @@ A simple rhythm game that adds in features of a fighting game
   Time blocks and attacks with the on screen prompts to defeat the enemy
 
 <h2>link to play:</h2><br>
-<a>https://wkershaw.github.io/RhythmFightingGame/<a>
+<a href='https://wkershaw.github.io/RhythmFightingGame'>https://wkershaw.github.io/RhythmFightingGame/<a>
