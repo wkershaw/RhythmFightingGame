@@ -1,11 +1,11 @@
 # RhythmFightingGame
 A simple rhythm game that adds in features of a fighting game
 
-Controls:
-  Up arrow - Block an incoming attack
-  Down arrow - Attach the enemy
+<h2>Controls:</h2> <br>
+  Up arrow - Block an incoming attack <br>
+  Down arrow - Attach the enemy <br>
   
   Time blocks and attacks with the on screen prompts to defeat the enemy
 
-link to play:
+<h2>link to play:</h2><br>
 <a>https://wkershaw.github.io/RhythmFightingGame/<a>
